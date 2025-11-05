@@ -3,6 +3,8 @@
 Welcome to my creator’s log on GitHub.
 I’m driven by curiosity, creativity, and a taste for the code that moves cities, schedules, organs-and other unusual projects. Below you’ll find snapshots from my journey, with diverse projects that experiment, reconstruct, and sometimes just play with technology.  
 Let's connect and build something cool together!
+<div align="center">
+ 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=358765&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Problem+Solver;Open+To+Learning+New+Things;Unusual+Approach;)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=JaasiekI&color=blueviolet&style=flat-square&label=Profile+Views)
