@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Jasiek!
+#  Hi, I’m Jasiek!
 
 Welcome to my creator’s log on GitHub.
 I’m driven by curiosity, creativity, and a taste for the code that moves cities, schedules, organs—and other unusual projects. Below you’ll find snapshots from my journey, with diverse projects that experiment, reconstruct, and sometimes just play with technology.
@@ -15,9 +15,9 @@ Let's connect and build something cool together!
 
 ---
 
-## :sparkles: My Tech Stack Adventure
+## My Tech Stack Adventure
 
-### 🖥️ Frontend
+### Frontend
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge\&logo=typescript\&logoColor=white)
@@ -25,7 +25,7 @@ Let's connect and build something cool together!
 ![SCSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
 
-### 🛠️ Backend
+### Backend
 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
@@ -33,20 +33,15 @@ Let's connect and build something cool together!
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge\&logo=mysql\&logoColor=white)
 ![SQLite](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
 
-### 📚 Learning
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge\&logo=kotlin\&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge\&logo=swift\&logoColor=white)
-
-### 💻 Working Platforms
+### Working Platforms
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge\&logo=windows\&logoColor=white)
 ![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge\&logo=apple\&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge\&logo=Raspberry%20Pi\&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
 
-### 🧰 IDE
+### IDE
 
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge\&logo=visual%20studio%20code\&logoColor=white)
 ![Pycharm](https://img.shields.io/badge/PyCharm-000000.svg?\&style=for-the-badge\&logo=PyCharm\&logoColor=white)
@@ -55,7 +50,7 @@ Let's connect and build something cool together!
 
 ---
 
-## 📚 Project Highlights
+## Project Highlights
 
 * **[SIP](https://github.com/Jaasiek/SIP):**
   *Reimagining Warsaw public transport displays!*
@@ -69,7 +64,7 @@ Let's connect and build something cool together!
 
 ---
 
-## 🧪 What You'll Find in My Repos
+## What You'll Find in My Repos
 
 * Cities reconstructed, simulated, translated for the digital age.
 * User-friendly UIs, backend logic, and full-stack thinking.
@@ -78,7 +73,7 @@ Let's connect and build something cool together!
 
 ---
 
-## 🪢 Let's Connect
+## Let's Connect
 
 I’m always keen for collaboration, feedback, and new ideas.
 Check out my repos, raise an issue.
